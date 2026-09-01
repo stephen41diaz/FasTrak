@@ -1,0 +1,17 @@
+
+```json
+{
+  "name": "lee-way-toll",
+  "version": "1.0.0",
+  "description": "Lee Way Toll - Toll expense management system",
+  "main": "src/index/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
